@@ -1,3 +1,3 @@
 ## code your solution here. 
-def cat
+C cat
 attr_accessor = name
