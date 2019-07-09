@@ -1,3 +1,3 @@
 ## code your solution here. 
-C cat
+Class cat
 attr_accessor = name
